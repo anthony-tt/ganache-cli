@@ -1,6 +1,6 @@
 {
   "name": "ganache-cli",
-  "version": "6.12.0",
+  "version": "6.12.1",
   "bin": {
     "ganache-cli": "cli.js"
   },
@@ -25,7 +25,7 @@
   ],
   "devDependencies": {
     "@semantic-release/git": "^9.0.0",
-    "ganache-core": "anthony-tt/ganache-core#v2.13.0-tt",
+    "ganache-core": "anthony-tt/ganache-core#v2.13.1-tt",
     "node-loader": "^0.6.0",
     "notp": "2.0.3",
     "on-build-webpack": "^0.1.0",
