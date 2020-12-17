@@ -25,7 +25,7 @@
   ],
   "devDependencies": {
     "@semantic-release/git": "^9.0.0",
-    "ganache-core": "anthony-tt/ganache-core#v2.13.1-tt",
+    "ganache-core": "git://github.com/anthony-tt/ganache-core.git#v2.13.1-tt",
     "node-loader": "^0.6.0",
     "notp": "2.0.3",
     "on-build-webpack": "^0.1.0",
